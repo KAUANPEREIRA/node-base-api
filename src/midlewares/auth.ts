@@ -21,14 +21,11 @@ export const Auth = {
                 sucess= true
                }
                
-               catch(err){
-                   
+               catch(err){ 
 
                }
               
            }
-
-
         }
         if(sucess){
             next()
